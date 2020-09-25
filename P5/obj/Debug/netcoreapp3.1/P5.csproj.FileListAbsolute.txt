@@ -1,0 +1,12 @@
+/Users/rainier.lopez/Documents/CompuCiencia/C#/Practicas/Practica-IV/P5/obj/Debug/netcoreapp3.1/P5.csprojAssemblyReference.cache
+/Users/rainier.lopez/Documents/CompuCiencia/C#/Practicas/Practica-IV/P5/obj/Debug/netcoreapp3.1/P5.AssemblyInfoInputs.cache
+/Users/rainier.lopez/Documents/CompuCiencia/C#/Practicas/Practica-IV/P5/obj/Debug/netcoreapp3.1/P5.AssemblyInfo.cs
+/Users/rainier.lopez/Documents/CompuCiencia/C#/Practicas/Practica-IV/P5/obj/Debug/netcoreapp3.1/P5.csproj.CoreCompileInputs.cache
+/Users/rainier.lopez/Documents/CompuCiencia/C#/Practicas/Practica-IV/P5/bin/Debug/netcoreapp3.1/P5.deps.json
+/Users/rainier.lopez/Documents/CompuCiencia/C#/Practicas/Practica-IV/P5/bin/Debug/netcoreapp3.1/P5.runtimeconfig.json
+/Users/rainier.lopez/Documents/CompuCiencia/C#/Practicas/Practica-IV/P5/bin/Debug/netcoreapp3.1/P5.runtimeconfig.dev.json
+/Users/rainier.lopez/Documents/CompuCiencia/C#/Practicas/Practica-IV/P5/bin/Debug/netcoreapp3.1/P5.dll
+/Users/rainier.lopez/Documents/CompuCiencia/C#/Practicas/Practica-IV/P5/bin/Debug/netcoreapp3.1/P5.pdb
+/Users/rainier.lopez/Documents/CompuCiencia/C#/Practicas/Practica-IV/P5/obj/Debug/netcoreapp3.1/P5.dll
+/Users/rainier.lopez/Documents/CompuCiencia/C#/Practicas/Practica-IV/P5/obj/Debug/netcoreapp3.1/P5.pdb
+/Users/rainier.lopez/Documents/CompuCiencia/C#/Practicas/Practica-IV/P5/obj/Debug/netcoreapp3.1/P5.genruntimeconfig.cache

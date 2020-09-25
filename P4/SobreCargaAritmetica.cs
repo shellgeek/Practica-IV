@@ -1,8 +1,8 @@
 using System;
 
-namespace P3
+namespace P4
 {
-    public class ClaseAritmetica
+    public class SobreCargaAritmetica
     {
         private double cantUno;
         private double CantDos;
@@ -18,9 +18,17 @@ namespace P3
         return cantuno+cantdos;
     }
 
+    public double Suma(double cantuno, double cantdos, double canttres, double cantcuatro)
+    {
+        return cantuno+cantdos+canttres+cantcuatro;
+    }
     public double Resta(double cantuno, double cantdos)
     {
         return cantuno-cantdos;
+    }
+      public double Resta(double cantuno, double cantdos, double canttres, double cantcuatro)
+    {
+        return cantuno-cantdos-canttres-cantcuatro;
     }
 
     public double Multiplicar (double cantuno, double cantdos)
@@ -32,5 +40,5 @@ namespace P3
     {
         return cantuno/cantdos;
     }
-    }
+}
 }

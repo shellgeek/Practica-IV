@@ -1,0 +1,4 @@
+/Users/rainier.lopez/Documents/CompuCiencia/C#/Practicas/Practica-IV/P4/obj/Debug/netcoreapp3.1/P4.csprojAssemblyReference.cache
+/Users/rainier.lopez/Documents/CompuCiencia/C#/Practicas/Practica-IV/P4/obj/Debug/netcoreapp3.1/P4.AssemblyInfoInputs.cache
+/Users/rainier.lopez/Documents/CompuCiencia/C#/Practicas/Practica-IV/P4/obj/Debug/netcoreapp3.1/P4.AssemblyInfo.cs
+/Users/rainier.lopez/Documents/CompuCiencia/C#/Practicas/Practica-IV/P4/obj/Debug/netcoreapp3.1/P4.csproj.CoreCompileInputs.cache
